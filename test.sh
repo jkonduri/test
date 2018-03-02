@@ -1,4 +1,1 @@
-ls
-echo $JAVA_HOME
-pwd
-echo " thats it ...."
+hi this is a test file
